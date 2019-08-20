@@ -8,6 +8,8 @@ import {
 } from 'semantic-ui-react'
 import whiteImage from 'public/assets/img/white-image.png';
 
+/** 메인 콘텐츠 */
+
 class App extends React.Component {
   render() {
     return (

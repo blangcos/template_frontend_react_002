@@ -6,6 +6,8 @@ import {
 } from 'semantic-ui-react'
 import style from 'style/style'
 
+/** [메뉴 컴포넌트] */
+
 const MainMenu = ({activeItem, handleItemClick}) => (
   <Container style={style.container_mainmenu}>
     <Menu icon='labeled' stackable widths={2}>

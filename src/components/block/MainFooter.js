@@ -6,6 +6,7 @@ import {
 } from 'semantic-ui-react'
 import style from 'style/style'
 
+/** [푸터 컴포넌트] */
 
 const MainFooter = () => (
     <Segment inverted vertical style={style.segment_mainfooter}>

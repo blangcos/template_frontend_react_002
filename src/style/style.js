@@ -1,3 +1,5 @@
+/** 스타일 */
+
 const style = {
     segment_mainfooter: {
         padding: '5em 0em'

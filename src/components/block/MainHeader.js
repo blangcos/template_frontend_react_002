@@ -5,6 +5,8 @@ import {
 } from 'semantic-ui-react'
 import style from 'style/style'
 
+/** [헤더 컴포넌트] */
+
 const MainHeader = () => (
     <div>
         <Segment inverted color='black'>

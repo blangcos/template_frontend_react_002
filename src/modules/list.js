@@ -4,7 +4,7 @@ import { Map } from 'immutable';
 /*
  * 액션 타입 정의
  */
-const SET_LIST = 'faq/SET_LIST';
+const SET_LIST = 'list/SET_LIST';
 
 /*
  * 액션 생성 함수 정의
