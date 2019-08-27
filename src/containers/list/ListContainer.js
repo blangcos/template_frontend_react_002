@@ -32,7 +32,7 @@ class ListContiner extends React.Component {
     const { ListAction } = this.props;
 
     axios({
-      url:"/sample",
+      url: process.env.API_URL + "/sample",
       method:"get",
       headers: { "Pragma": 'no-cache'}  
     })
